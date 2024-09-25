@@ -2,8 +2,8 @@
 # Não há necessidade de declará-las no início do programa 
 # basta criar no meio do algoritmo com a atribuição 
 
-teste = "Nicolas"
-print (teste) #Imprime a string "Nicolas"
+teste = "Khadija"
+print (teste) #Imprime a string "khadija"
 print (type(teste)) #Imprime o tio de váriavel, string 
 teste = 10
 print (teste) # Imprime o número 10
