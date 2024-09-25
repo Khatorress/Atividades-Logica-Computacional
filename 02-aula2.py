@@ -1,3 +1,3 @@
 #comentario 
-print("Ludmyla 'ludy' Victoria")
-print('Ludmyla "Ludy" Victoria')
+print("Khadija 'kha' Kimberly")
+print('Khadija "kha" Kimberly')
